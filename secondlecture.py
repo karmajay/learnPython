@@ -7,7 +7,7 @@
 # print("marks are",marks)
 # age2 = age
 # print(age2)
-
+ 
 #VARIABLES
 
 
